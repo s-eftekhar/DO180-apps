@@ -1,3 +1,2 @@
-<?php
-print "Hello, World! php version is " . PHP_VERSION . "\n";
-?>
+<php
+print "This is a new message from Sara"
